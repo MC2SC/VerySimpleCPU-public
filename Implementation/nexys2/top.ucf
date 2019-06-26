@@ -1,0 +1,36 @@
+NET "clk" LOC = "B8";
+NET "rst" LOC = "B18";
+
+NET "sw<0>" LOC = "G18";
+NET "sw<1>" LOC = "H18";
+NET "sw<2>" LOC = "K18";
+NET "sw<3>" LOC = "K17";
+NET "sw<4>" LOC = "L14";
+NET "sw<5>" LOC = "L13";
+NET "sw<6>" LOC = "N17";
+NET "sw<7>" LOC = "R17";
+
+NET "led<0>" LOC = "J14";
+NET "led<1>" LOC = "J15";
+NET "led<2>" LOC = "K15";
+NET "led<3>" LOC = "K14";
+NET "led<4>" LOC = "E16";
+NET "led<5>" LOC = "P16";
+NET "led<6>" LOC = "E4";
+NET "led<7>" LOC = "P4";
+
+NET "push_button<0>" LOC = "D18";
+NET "push_button<1>" LOC = "E18";
+NET "push_button<2>" LOC = "H13";
+
+NET "hsync" LOC = "T4";
+NET "vsync" LOC = "U3";
+
+NET "rgb<5>" LOC = "R9";
+NET "rgb<6>" LOC = "T8";
+NET "rgb<7>" LOC = "R8";
+NET "rgb<2>" LOC = "N8";
+NET "rgb<3>" LOC = "P8";
+NET "rgb<4>" LOC = "P6";
+NET "rgb<0>" LOC = "U5";
+NET "rgb<1>" LOC = "U4";
